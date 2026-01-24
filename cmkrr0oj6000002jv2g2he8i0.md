@@ -169,7 +169,7 @@ Finally, to make sure our devices see our server, we have to enable Subnet Routi
 
 Next we have to set up services to actually use in our new beefy server.
 
-* Immich to manage and view your personal photos and videos with ease.
+* Immich to manage and view our personal photos and videos with ease.
     
 * Pi-hole to protect our network.
     
